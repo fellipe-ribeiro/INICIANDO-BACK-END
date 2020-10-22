@@ -3,6 +3,10 @@
 node_modules/
 build/
 temp/
+.env
+coverage
+config
+ormconfig.json
 
 tmp/*
 !tmp/.gitkeep
